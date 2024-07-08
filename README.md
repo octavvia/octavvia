@@ -6,7 +6,7 @@ I am a passionate developer with a love for creating innovative solutions with a
 ##### Latest Personal Projects
 
 ###### TrackerCyc by authfy.xyz
-A comprehensive tracker application to track expenses and manage budgets.
+A comprehensive tracker application to track expenses and manage transactions.
 
 - **Tech Stack:** Next.js and Bun
 - **Repository:** [Finance Tracker](https://github.com/octavvia/finance-tracker)
