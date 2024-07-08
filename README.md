@@ -1,7 +1,7 @@
 #### Hi there, I'm Octavvia! 👋
 
 ##### About Me
-I am a passionate developer with a love for creating innovative solutions with aesthetic UI. Currently working with **Flutter** and **NextJS**
+I am a passionate developer with a love for creating innovative solutions with aesthetic UI. Currently working on **FrontEnd** (freelance) and **Mobile** (full time)
 
 ##### Latest Personal Projects
 
@@ -9,7 +9,7 @@ I am a passionate developer with a love for creating innovative solutions with a
 A comprehensive tracker application to track expenses and manage transactions.
 
 - **Tech Stack:** Next.js and Bun
-- **Repository:** [Finance Tracker](https://github.com/octavvia/finance-tracker)
+- **Repository:** [Transactions Tracker](https://github.com/octavvia/finance-tracker)
 - **Project:** [trackercyc.vvia.dev](https://trackcyc.vvia.dev/)
 - **Description:** This application helps users tracking their transaction very details, generating reports, and providing insights. User can login using Google Account or Metamask (*rekomended).
 
