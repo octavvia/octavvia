@@ -1,15 +1,15 @@
-# Hi there, I'm Octavvia! 👋
+### Hi there, I'm Octavvia! 👋
 
-## About Me
+##### About Me
 I am a passionate developer with a love for creating innovative solutions with aesthetic UI. Here are some of the technologies I work with:
 
-## Tech Stack
+##### Tech Stack
 - **Languages:** Dart, Go, and TypeScript.
 - **Frameworks:** Flutter, Next.js.
 
-## Latest Personal Projects
+##### Latest Personal Projects
 
-### TrackerCyc
+##### TrackerCyc
 A comprehensive tracker application to track expenses and manage budgets.
 
 - **Tech Stack:** Next.js, PostgreSQL, Bun
