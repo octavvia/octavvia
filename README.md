@@ -7,9 +7,9 @@ I am a passionate developer with a love for creating innovative solutions with a
 - **Languages:** Dart, Go, and TypeScript.
 - **Frameworks:** Flutter, Next.js.
 
-##### Latest Personal Projects
+###### Latest Personal Projects
 
-##### TrackerCyc
+#### TrackerCyc
 A comprehensive tracker application to track expenses and manage budgets.
 
 - **Tech Stack:** Next.js, PostgreSQL, Bun
@@ -32,6 +32,6 @@ A simple task management application to keep track of daily tasks and projects.
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
-## Connect with Me
+##### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/octavvia/)
 - [Twitter](https://twitter.com/78vip)
