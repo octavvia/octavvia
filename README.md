@@ -5,12 +5,13 @@ I am a passionate developer with a love for creating innovative solutions with a
 
 ##### Latest Personal Projects
 
-###### TrackerCyc
+###### TrackerCyc by authfy.xyz
 A comprehensive tracker application to track expenses and manage budgets.
 
-- **Tech Stack:** Next.js, PostgreSQL, Bun
+- **Tech Stack:** Next.js and Bun
 - **Repository:** [Finance Tracker](https://github.com/octavvia/finance-tracker)
-- **Description:** This application helps users manage their finances by tracking income and expenses, generating reports, and providing insights.
+- **Project:** [trackercyc.vvia.dev](https://trackcyc.vvia.dev/)
+- **Description:** This application helps users tracking their transaction very details, generating reports, and providing insights. User can login using Google Account or Metamask (*rekomended).
 
 <!-- ### 2. Personal Blog
 A blog platform to share my thoughts on various topics including technology and programming.
