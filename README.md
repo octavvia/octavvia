@@ -9,7 +9,7 @@ I am a passionate developer with a love for creating innovative solutions with a
 A comprehensive tracker application to track expenses and manage transactions.
 
 - **Tech Stack:** Next.js and Bun
-- **Project:** [trackercyc.vvia.dev](https://trackcyc.vvia.dev/)
+- **Project:** [(https://trackcyc.vvia.dev/](https://trackercyc.vvia.dev/))
 - **Description:** This application helps users tracking their transaction very details, generating reports, and providing insights. User can login using Google Account or Metamask (*rekomended).
 <!-- - **Repository:** [Transactions Tracker](https://github.com/octavvia/finance-tracker) -->
 <!-- ### 2. Personal Blog
