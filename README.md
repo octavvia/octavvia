@@ -1,6 +1,6 @@
 #### Hi there, I'm Octavia! 👋
 
-##### About Me
+###### About Me
 I am a passionate developer with a love for creating innovative solutions with aesthetic UI. Currently working on **FrontEnd** (freelance) and **Mobile** (full time)
 
 ###### Latest Personal Projects
