@@ -11,7 +11,7 @@ I am a passionate developer with a love for creating innovative solutions with a
 | **Description:** A comprehensive tracker application to track expenses and manage transactions. | **Description:** Broadcast Email for Marketing Purpose |
 | **Tech Stack:** Next.js and Bun | **Tech Stack:** Next.js |
 | **Project:** [TrackerCyc](https://trackercyc.vvia.dev/) | **Project:** [Claudya](/) |
-| **Details:** This application helps users track their transactions in detail, generate reports, and provide insights. Users can log in using Google Account or Metamask (*recommended). | **Details:** This application helps companies sell their products via email broadcast and AI customer service. Subcription will be using Stripe and Crypto Currency (recommended). |
+| **Details:** This application helps users track their transactions in detail, generate reports, and provide insights. Users can log in using Google Account or Metamask (*recommended). | **Details:** This application helps companies sell their products via email broadcast and AI customer service. Subcription will be using Stripe and Crypto Currency (on development). |
 
 <!-- - **Repository:** [Transactions Tracker](https://github.com/octavvia/finance-tracker) -->
 <!-- ### 2. Personal Blog
