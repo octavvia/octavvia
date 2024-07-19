@@ -6,11 +6,11 @@ I am a passionate developer with a love for creating innovative solutions with a
 ###### Latest Personal Projects
 
 
-| **TrackerCyc by authfy.xyz** | **Hype Talk** |
-| --------------------------- | ----------------------------- |
-| **Description:** A comprehensive tracker application to track expenses and manage transactions. | **Description:** Online Meeting |
-| **Project:** [TrackerCyc](https://trackercyc.vvia.dev/) | **Project:** hypetalk.vvia.dev |
-| **Details:** This application helps users track their transactions in detail, generate reports, and provide insights. Users can log in using Google Account or Metamask (*recommended). | **Details:** This application helps to online comunication with most powerfull feature |
+| **TrackerCyc by authfy.xyz** | **Claudy** | **Hype Talk** |
+| --------------------------- | ----------------------------- | ----------------------------- |
+| **Description:** A comprehensive tracker application to track expenses and manage transactions. |  **Description:** Broadcast Email for Marketing Purpose | **Description:** Online Meeting |
+| **Project:** [TrackerCyc](https://trackercyc.vvia.dev/) | **Project:** Claudy | **Project:** [HypeTalk](hypetalk.vvia.dev) |
+| **Details:** This application helps users track their transactions in detail, generate reports, and provide insights. Users can log in using Google Account or Metamask (*recommended). | **Details:** This application helps companies sell their products via email broadcast and AI customer service. Subcription will be using Stripe and Crypto Currency (on development). | **Details:** This application helps to online comunication with most powerfull feature |
 
 <!-- - 
 | **Tech Stack:** Next.js and Bun | **Tech Stack:** Next.js |
