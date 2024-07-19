@@ -9,7 +9,7 @@ I am a passionate developer with a love for creating innovative solutions with a
 | **TrackerCyc by authfy.xyz** | **Claudy** | **Hype Talk** |
 | --------------------------- | ----------------------------- | ----------------------------- |
 | **Description:** A comprehensive tracker application to track expenses and manage transactions. |  **Description:** Broadcast Email for Marketing Purpose. | **Description:** Advanced and efficient online communication. |
-| **Project:** [TrackerCyc](https://trackercyc.vvia.dev/) | **Project:** Claudy | **Project:** [HypeTalk](hypetalk.vvia.dev) |
+| **Project:** [TrackerCyc](https://trackercyc.vvia.dev/) | **Project:** Claudy | **Project:** [HypeTalk](https://hypetalk.vvia.dev) |
 | **Details:** This application helps users track their transactions in detail, generate reports, and provide insights. Users can log in using Google Account or Metamask (*recommended). | **Details:** This application helps companies sell their products via email broadcast and AI customer service. Subcription will be using Stripe and Crypto Currency (on development). | **Details:** Our apps simplify online communication with advanced features and flexible subscription plans. Suitable for efficient collaboration and interaction. |
 
 <!-- - 
