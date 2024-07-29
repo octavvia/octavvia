@@ -6,13 +6,19 @@ I am a passionate developer with a love for creating innovative solutions with a
 ###### Latest SaaS Projects
 
 
-| **TrackerCyc by authfy.xyz** | **Claudy** | **Met You** |
-| --------------------------- | ----------------------------- | ----------------------------- |
-| **Description:** A comprehensive tracker application to track expenses and manage transactions. |  **Description:** Broadcast Email for Marketing Purpose. | **Description:** Advanced and efficient online communication. |
-| **Project:** [TrackerCyc](https://trackercyc.vvia.dev/) | **Project:** Claudy | **Project:** [MetYou](https://github.com/authfy-labs/metyou) |
-| **Details:** This application helps users track their transactions in detail, generate reports, and provide insights. Users can log in using Google Account or Metamask (*recommended). | **Details:** This application helps companies sell their products via email broadcast and AI customer service. Subcription will be using Stripe and Crypto Currency (on development). | **Details:** Our apps simplify online communication with advanced features and flexible subscription plans. Suitable for efficient collaboration and interaction. |
+| **TrackerCyc by authfy.xyz** | **Met You** |
+| --------------------------- |  ----------------------------- |
+| **Description:** A comprehensive tracker application to track expenses and manage transactions. |  **Description:** Advanced and efficient online communication. |
+| **Project:** [TrackerCyc](https://trackercyc.vvia.dev/) |  **Project:** [MetYou](https://github.com/authfy-labs/metyou) |
+| **Details:** This application helps users track their transactions in detail, generate reports, and provide insights. Users can log in using Google Account |  **Details:** Our apps simplify online communication with advanced features and flexible subscription plans. Suitable for efficient collaboration and interaction. |
 
 <!-- - 
+| **Claudy** 
+----------------------------- |
+ **Description:** Broadcast Email for Marketing Purpose. |
+ **Project:** Claudy |
+ **Details:** This application helps companies sell their products via email broadcast and AI customer service. Subcription will be using Stripe and Crypto Currency (on development). |
+ 
 | **Tech Stack:** Next.js and Bun | **Tech Stack:** Next.js |
 **Repository:** [Transactions Tracker](https://github.com/octavvia/finance-tracker) -->
 <!-- ### 2. Personal Blog
