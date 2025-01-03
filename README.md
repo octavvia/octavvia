@@ -1,7 +1,7 @@
 #### Hi there, I'm Octavia! 👋
 
 ###### About Me
-I am a passionate developer with a love for creating innovative solutions with aesthetic UI. Currently working on **Mobile Development** using **Flutter and Swift**
+I am a passionate developer with a love for creating innovative solutions and crafting aesthetic UI designs. I currently work full-time in Mobile Development, specializing in **Flutter** and **Swift**. In my spare time, I contribute to Web3 projects, leveraging **TypeScript** to build creative solutions on blockchain platforms.
 
 ###### Latest SaaS Projects
 
