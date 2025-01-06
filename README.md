@@ -36,3 +36,5 @@ A simple task management application to keep track of daily tasks and projects.
 - **Description:** A user-friendly task manager with features like task creation, editing, deletion, and prioritization. -->
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+Contact me on Telegram https://t.me/luckybearer
